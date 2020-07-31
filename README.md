@@ -1,4 +1,6 @@
 # Neural-Catchphrase-Generation
 
-This repository contains all code for Natural Language Processing CS 613 Project - Neural Catchphrase Generation for Scientific Papers
+This repository contains all code for the paper TiZen: Neural Title Generation for Scientific Papers
+
+
 
