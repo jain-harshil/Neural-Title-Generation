@@ -13,6 +13,9 @@ A comparison of actual and predicted titles by TiZen is illustrated in the table
 # Example 1
 
 Actual Title - You Only Look Once: Unified, Real-Time Object Detection
+
+&nbsp
+
 ![](1.jpeg)
 
 # Example 2
