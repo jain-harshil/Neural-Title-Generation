@@ -10,10 +10,22 @@ A comparison of actual and predicted titles by TiZen is illustrated in the table
 
 ## Images of TiZen Dashboard:
 
+# Example 1
+
+Actual Title - You Only Look Once: Unified, Real-Time Object Detection
 ![](1.jpeg)
 
+# Example 2
+
+Actual Title - SEAGLE: Sparsity-Driven Image Reconstruction under Multiple Scattering
 ![](2.jpeg)
 
+# Example 3
+
+Actual Title - ExEC: Elastic Extensible Edge Cloud 
 ![](3.jpeg)
 
+# Example 4
+
+Actual Title - Weakly-Supervised Deep Learning for Domain Invariant Sentiment Classification 
 ![](4.jpeg)
